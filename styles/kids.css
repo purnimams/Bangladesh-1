@@ -136,9 +136,9 @@
 }
 
 /* main related styles */
-/* .image{
-    background-image: url('images/assets/bg.png');
-} */
+ .image-A{
+    background-image: url('c:\purnima\B11-A2-Kids-School-main\assets\bg.png');
+} 
 
 /* skills section styles*/
 
@@ -294,19 +294,6 @@
 
 
 /* responsive media query */
- /* @media screen and (max-width: 576px) {
-    .navbar, 
-    .brand, 
-    .banner,
-    .stories0,
-    .skills-container{
-        flex-direction: column;
-
-    } 
-    .stories20{
-        grid-template-columns: repeat(1, 1fr);
-                } */
-
  .hide{
     display: none;
  }
